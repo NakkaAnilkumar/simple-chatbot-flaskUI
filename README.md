@@ -1,1 +1,1 @@
-simplechatbot-ollama-usingflastui
+simplechatbot-ollama-usingflaskui
